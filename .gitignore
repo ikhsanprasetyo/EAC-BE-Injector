@@ -1,0 +1,5 @@
+/Injector/.vs
+/Injector/Injector/x64
+*.tlog
+/Injector/DriverKernel/output
+*.pdb
