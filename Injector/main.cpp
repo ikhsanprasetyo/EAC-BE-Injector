@@ -20,7 +20,7 @@ auto main ( ) -> int
    
     Inject* inject = new Inject();
     skar_text->skar_log("open GTA5.");
-    Sleep(10000);
+    Sleep(3000);
     inject->inject_module_from_path_to_process_by_name(xor_w(L"YimMenuV2.dll"), xor_w(L"GTA5_Enhanced.exe"));
 }
 

@@ -4,6 +4,6 @@
   Generating code
   Previous IPDB not found, fall back to full compilation.
 C:\Project\Desktop\other\EAC-BE-Injector\Injector\utils\utils.h(71): warning C4715: 'utils::find_pattern': not all control paths return a value
-  All 170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   Injector.vcxproj -> C:\Project\Desktop\other\EAC-BE-Injector\Injector\x64\Release\Injector.exe

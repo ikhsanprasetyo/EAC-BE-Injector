@@ -3,3 +3,8 @@
 *.tlog
 /Injector/DriverKernel/output
 *.pdb
+/Injector/Injector/x64
+*.log
+*.tlog
+*.obj
+*.pdb
